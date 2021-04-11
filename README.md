@@ -39,5 +39,5 @@ Vous pouvez vous deconnecter, voir vos sondage, les sondage de ses amis, et repo
 
 Vous pouvez choisir votre réponse et voir le nombre de vote pour chacune des réponses.
 
-<img src="https://user-images.githubusercontent.com/70761069/114314379-abd07900-9afa-11eb-8ffc-7425b0cd1689.png" widht="300">   <img src="https://user-images.githubusercontent.com/70761069/114314420-da4e5400-9afa-11eb-9fa1-1d0a58716a9d.png" widht="350">
+<img src="https://user-images.githubusercontent.com/70761069/114314379-abd07900-9afa-11eb-8ffc-7425b0cd1689.png" widht="250">   <img src="https://user-images.githubusercontent.com/70761069/114314420-da4e5400-9afa-11eb-9fa1-1d0a58716a9d.png" widht="350">
 
